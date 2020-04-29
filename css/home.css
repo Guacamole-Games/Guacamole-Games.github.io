@@ -10,13 +10,9 @@
     font-family: 'Press Start 2P', cursive;
     color: rgb(80, 174, 85);
 }
-.top{
-    
-}
 #contact{
     position: relative;
     font-family: 'Press Start 2P', cursive;
     text-align: right;
     color: rgb(140, 193, 82);
-    left: 70vw;
 }
