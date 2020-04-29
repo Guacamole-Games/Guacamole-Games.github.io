@@ -1,5 +1,6 @@
 #logo-long{
     max-width: 75vw;
+    z-index: -1;
 }
 #tag{
     font-family: 'Press Start 2P', cursive;
@@ -13,5 +14,9 @@
     
 }
 #contact{
+    position: relative;
+    font-family: 'Press Start 2P', cursive;
     text-align: right;
+    color: rgb(140, 193, 82);
+    left: 70vw;
 }
