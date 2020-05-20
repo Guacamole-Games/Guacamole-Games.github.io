@@ -1,3 +1,3 @@
 ![Logo](https://guacamole-games.github.io/img/long.png)
 
-why read this
+this site contains info on our open source projects on github
